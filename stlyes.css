@@ -76,7 +76,7 @@
     display: none;
   }
   .content {
-    font-size: 150%;
+    font-size: 150% !important;
   }
 }
 
