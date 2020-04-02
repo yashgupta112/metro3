@@ -212,7 +212,8 @@ display:block;
   }
 
 .home-heading {
-  font-family: 'Verlag-Bold';
+  /* font-family: 'Verlag-Bold'; */
+  font-family: 'Raleway', sans-serif;
   font-size: 3.5rem;
   color: white;
   position: relative;
@@ -245,7 +246,7 @@ display:block;
   /* margin-top: 100px;
   margin-bottom: 15%; */
   display: inline-block;
-  background-color: grey;
+  background-color: #c7c5c5;
   color: black;
   padding: 0;
   margin: auto;
